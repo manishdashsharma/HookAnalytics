@@ -1,0 +1,103 @@
+{
+  "event_metadata": {
+    "event_type": "issue_comment",
+    "action": "created",
+    "delivery_id": "cd6361c0-3b20-11f0-9022-ab275b803da9",
+    "timestamp": "2025-05-27T17:34:11Z"
+  },
+  "repository": {
+    "id": 991468000,
+    "name": "test",
+    "full_name": "manishdashsharma/test",
+    "private": false,
+    "default_branch": "main",
+    "html_url": "https://github.com/manishdashsharma/test",
+    "description": null,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 1,
+    "language": null,
+    "visibility": "public"
+  },
+  "comment": {
+    "id": 2913393255,
+    "body": "Adding a comment",
+    "html_url": "https://github.com/manishdashsharma/test/pull/1#issuecomment-2913393255",
+    "created_at": "2025-05-27T17:34:11Z",
+    "updated_at": "2025-05-27T17:34:11Z",
+    "author_association": "OWNER"
+  },
+  "comment_author": {
+    "login": "manishdashsharma",
+    "id": 60460877,
+    "avatar_url": "https://avatars.githubusercontent.com/u/60460877?v=4",
+    "html_url": "https://github.com/manishdashsharma",
+    "type": "User"
+  },
+  "issue_or_pr": {
+    "id": 3094672475,
+    "number": 1,
+    "title": "Update README.md",
+    "body": "This PR is a testing PR",
+    "state": "open",
+    "locked": false,
+    "draft": false,
+    "html_url": "https://github.com/manishdashsharma/test/pull/1",
+    "created_at": "2025-05-27T17:32:33Z",
+    "updated_at": "2025-05-27T17:34:12Z",
+    "closed_at": null,
+    "comments": 1,
+    "is_pull_request": true,
+    "assignee": null,
+    "assignees": [],
+    "labels": [],
+    "milestone": null,
+    "author_association": "OWNER"
+  },
+  "issue_author": {
+    "login": "manishdashsharma",
+    "id": 60460877,
+    "avatar_url": "https://avatars.githubusercontent.com/u/60460877?v=4",
+    "html_url": "https://github.com/manishdashsharma",
+    "type": "User"
+  },
+  "pull_request_info": {
+    "url": "https://api.github.com/repos/manishdashsharma/test/pulls/1",
+    "html_url": "https://github.com/manishdashsharma/test/pull/1",
+    "diff_url": "https://github.com/manishdashsharma/test/pull/1.diff",
+    "patch_url": "https://github.com/manishdashsharma/test/pull/1.patch",
+    "merged_at": null
+  },
+  "reactions": {
+    "comment_reactions": {
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    },
+    "issue_reactions": {
+      "total_count": 0,
+      "+1": 0,
+      "-1": 0,
+      "laugh": 0,
+      "hooray": 0,
+      "confused": 0,
+      "heart": 0,
+      "rocket": 0,
+      "eyes": 0
+    }
+  },
+  "sender": {
+    "login": "manishdashsharma",
+    "id": 60460877,
+    "avatar_url": "https://avatars.githubusercontent.com/u/60460877?v=4",
+    "html_url": "https://github.com/manishdashsharma",
+    "type": "User"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "event_metadata": {
+    "event_type": "pull_request",
+    "action": "closed",
+    "delivery_id": "fc6e88a0-3b20-11f0-880b-d76d574d2f14",
+    "timestamp": "2025-05-27T17:35:30Z"
+  },
+  "repository": {
+    "id": 991468000,
+    "name": "test",
+    "full_name": "manishdashsharma/test",
+    "private": false,
+    "default_branch": "main",
+    "html_url": "https://github.com/manishdashsharma/test",
+    "description": null,
+    "stargazers_count": 0,
+    "forks_count": 0,
+    "watchers_count": 0,
+    "open_issues_count": 0,
+    "language": null,
+    "visibility": "public"
+  },
+  "pull_request": {
+    "id": 2547152831,
+    "number": 1,
+    "title": "Update README.md",
+    "body": "This PR is a testing PR",
+    "state": "closed",
+    "draft": false,
+    "locked": false,
+    "html_url": "https://github.com/manishdashsharma/test/pull/1",
+    "diff_url": "https://github.com/manishdashsharma/test/pull/1.diff",
+    "patch_url": "https://github.com/manishdashsharma/test/pull/1.patch",
+    "created_at": "2025-05-27T17:32:33Z",
+    "updated_at": "2025-05-27T17:35:30Z",
+    "closed_at": "2025-05-27T17:35:30Z",
+    "merged_at": "2025-05-27T17:35:30Z",
+    "merged": true,
+    "mergeable": null,
+    "mergeable_state": "unknown",
+    "merge_commit_sha": "8e74de8c096c5c653c2f32f6341e8bbdca6b1275",
+    "author_association": "OWNER"
+  },
+  "pull_request_details": {
+    "head": {
+      "label": "manishdashsharma:test-branch",
+      "ref": "test-branch",
+      "sha": "6e0404a8a4e0c836f319b9225eacceb9100fff6b"
+    },
+    "base": {
+      "label": "manishdashsharma:main",
+      "ref": "main",
+      "sha": "92470250b4fc61d25db041b2972b19f32cd0f9f8"
+    },
+    "commits": 1,
+    "additions": 1,
+    "deletions": 0,
+    "changed_files": 1
+  },
+  "pr_author": {
+    "login": "manishdashsharma",
+    "id": 60460877,
+    "avatar_url": "https://avatars.githubusercontent.com/u/60460877?v=4",
+    "html_url": "https://github.com/manishdashsharma",
+    "type": "User"
+  },
+  "merged_by": {
+    "login": "manishdashsharma",
+    "id": 60460877,
+    "avatar_url": "https://avatars.githubusercontent.com/u/60460877?v=4",
+    "html_url": "https://github.com/manishdashsharma",
+    "type": "User"
+  },
+  "reviewers_and_assignees": {
+    "assignee": null,
+    "assignees": [],
+    "requested_reviewers": [],
+    "requested_teams": []
+  },
+  "pr_metadata": {
+    "labels": [],
+    "milestone": null,
+    "comments": 1,
+    "review_comments": 0,
+    "maintainer_can_modify": false,
+    "auto_merge": null
+  },
+  "sender": {
+    "login": "manishdashsharma",
+    "id": 60460877,
+    "avatar_url": "https://avatars.githubusercontent.com/u/60460877?v=4",
+    "html_url": "https://github.com/manishdashsharma",
+    "type": "User"
+  }
+}
